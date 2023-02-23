@@ -1,1 +1,2 @@
-# Design-and-development-of-a-multifunctional-notepad-based-on-the-Android-platform
+### 基于安卓平台多功能记事本的设计与开发
+#### 设计并开发多功能记事本的Android应用，包含功能有：用户注册登录，查看记事，添加记事，修改记事，删除记事，计时器计时与停止，音乐播放与暂停，查看天气，查看新闻。
